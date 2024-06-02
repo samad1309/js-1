@@ -17,6 +17,7 @@ let isAdult = true
 let state; //undefined
 
 // Run the code to see the type of all the data types.
+// String, age, boolean, null
 console.table([
     [name,typeof(name)],
     [age,typeof(age)],
