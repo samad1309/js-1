@@ -29,3 +29,11 @@ console.log(isString + 3 + 4)
 console.log(3 + 4 + isString)
 
 // Learn about post increment and preincrement
+let y = 1
+let z = y++
+let x = ++y
+
+
+console.log(x)
+console.log(y)
+console.log(z)
